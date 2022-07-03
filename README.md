@@ -4,4 +4,4 @@
 # + rendu immédiat des photos via javascript
 # Génaration du mail en MJML + simulation du route pour voir le rendu du mail
 # Génération du pdf associé pour + simulation du route pour voir le pdf associé
-# Gestion de la pagination  via css
+# Gestion de la pagination  via CSS/SASS
