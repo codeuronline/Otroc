@@ -4,7 +4,9 @@
 ##### Création\Modification des petites annonces via formulaire 
 ##### + rendu immédiat des photos via javascript
 ##### Génaration du mail en MJML + simulation de la route pour voir le rendu du mail
-###### Génération du pdf associé + simulation de la route pour voir le pdf associé
+![mjml](https://raw.githubusercontent.com/codeuronline/Otroc/main/visuel%20mjml.png)
+###### Génération du pdf associé + simulation de la route pour voir le pdf associé 
+![pdf](https://raw.githubusercontent.com/codeuronline/Otroc/main/pdfscreen.png)
 ###### Gestion de la pagination  via CSS/SASS
 ### BACK : SERVER APACHE / MYSQL /PHP
 ### FRONT : HTML / TWIG / SCSS / PHP /JAVASCRIPT
